@@ -10571,7 +10571,7 @@ html.no-touch .button.link:hover{
 }
 .activate-wait-img{
     padding-top:20px;
-    background-image:url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb1311640662/dist/assets/clock.png);
+    background-image:url(../../../../bin/cb1311640662/dist/assets/clock.png);
     width:100px;
     height:100px;
     background-repeat:no-repeat;
@@ -11935,7 +11935,7 @@ idms-popover{
     display:none
 }
 .hero-image{
-    background:transparent url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb241221615/dist/assets/idms_toolbar.jpg) no-repeat
+    background:transparent url(../../../../bin/cb241221615/dist/assets/idms_toolbar.jpg) no-repeat
 }
 @media only screen and (max-device-width:736px){
     .idms-modal .toolbar-footer .full-width .primary-button-group,.toolbar-footer .full-width .primary-button-group{
@@ -12534,7 +12534,7 @@ idms-popover{
     color:#fdd500
 }
 .icon-warning{
-    background:transparent url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb3758041080/dist/assets/alert_icon.png) no-repeat
+    background:transparent url(../../../../bin/cb3758041080/dist/assets/alert_icon.png) no-repeat
 }
 .popover-dropdown-wrapper .popover-dropdown{
     padding:0
@@ -12861,13 +12861,13 @@ select::-ms-expand{
     background-size:cover;
     background-repeat:no-repeat;
     background-position:50%;
-    background-image:url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb1900903086/dist/assets/privacy-icon.png);
+    background-image:url(../../../../bin/cb1900903086/dist/assets/privacy-icon.png);
     width:35px;
     height:28px
 }
 @media(-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx){
     .privacy-wrapper .privacy-icon{
-        background-image:url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb230738313/dist/assets/privacy-icon%402x.png)
+        background-image:url(../../../../bin/cb230738313/dist/assets/privacy-icon%402x.png)
     }
 }
 .no-horizontal-scrollbar{
