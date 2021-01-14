@@ -1,6 +1,6 @@
 ﻿@font-face {
 	font-family: shared-icons;
-	src: url('./fonts/shared-icons.eot');
+	src: url('https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/cssj/N1964351542/landing/web/fonts/shared-icons.eot');
 	font-weight: 400;
 	font-style: normal
 }
@@ -13816,7 +13816,7 @@ h2.separator {
 }
 
 .flow-body .app-icons-1x {
-	background-image: url(../../../../bin/cb2599943921/dist/assets/app_icons.jpg)
+	background-image: url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb2599943921/dist/assets/app_icons.jpg)
 }
 
 .flow-body .app-icons-1x,
@@ -13830,7 +13830,7 @@ h2.separator {
 }
 
 .flow-body .app-icons-2x {
-	background-image: url(../../../../bin/cb2444952294/dist/assets/app_icons%402x.png)
+	background-image: url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb2444952294/dist/assets/app_icons%402x.png)
 }
 
 .flow-body .btn-create {
@@ -13876,7 +13876,7 @@ h2.separator {
 		padding-bottom: 20px
 	}
 	.mobile-icons-1x {
-		background-image: url(../../../../bin/cb2187761049/dist/assets/icons_mobile%401x.png)
+		background-image: url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb2187761049/dist/assets/icons_mobile%401x.png)
 	}
 	.mobile-icons-1x,
 	.mobile-icons-2x {
@@ -13888,7 +13888,7 @@ h2.separator {
 		margin: 0 auto
 	}
 	.mobile-icons-2x {
-		background-image: url(../../../../bin/cb646990083/dist/assets/icons_mobile%402x.png)
+		background-image: url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb646990083/dist/assets/icons_mobile%402x.png)
 	}
 	.flow-body .intro {
 		text-align: center
@@ -14010,7 +14010,7 @@ h2.separator {
 
 .hero {
 	height: auto;
-	background: #666 url(../../../../bin/cb3521079850/dist/assets/apple_id_recovery_2880x340.jpg) no-repeat;
+	background: #666 url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb3521079850/dist/assets/apple_id_recovery_2880x340.jpg) no-repeat;
 	padding-top: 105px;
 	background-size: auto 100%;
 	background-position: -230px 0
@@ -14039,7 +14039,7 @@ h2.separator {
 }
 
 .hero.signin {
-	background: #666 url(../../../../bin/cb1555792862/dist/assets/apple_id_desktop_2880x1260.jpg) no-repeat;
+	background: #666 url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb1555792862/dist/assets/apple_id_desktop_2880x1260.jpg) no-repeat;
 	height: 643px;
 	background-size: cover;
 	padding: 0
@@ -14073,7 +14073,7 @@ h2.separator {
 		background-position: 0
 	}
 	.hero.signin {
-		background: #666 url(../../../../bin/cb1555792862/dist/assets/apple_id_desktop_2880x1260.jpg) no-repeat;
+		background: #666 url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb1555792862/dist/assets/apple_id_desktop_2880x1260.jpg) no-repeat;
 		background-size: cover
 	}
 }
@@ -14092,7 +14092,7 @@ h2.separator {
 		padding-top: 18px
 	}
 	.hero.signin {
-		background: #666 url(../../../../bin/cb2713616020/dist/assets/apple_id_mobile.jpg) no-repeat;
+		background: #666 url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb2713616020/dist/assets/apple_id_mobile.jpg) no-repeat;
 		height: auto;
 		padding: 0;
 		background-size: cover
@@ -14125,7 +14125,7 @@ h2.separator {
 		background-position: 0
 	}
 	.hero.signin {
-		background: #666 url(../../../../bin/cb2381643449/dist/assets/apple_id_desktop_2x.jpg) no-repeat;
+		background: #666 url(https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/bin/cb2381643449/dist/assets/apple_id_desktop_2x.jpg) no-repeat;
 		background-size: cover
 	}
 }
