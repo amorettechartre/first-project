@@ -1042,21 +1042,21 @@ body {
 #ac-globalnav .ac-gn-link-apple {
     background-size: 16px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/apple/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/apple/image_large.svg");
     background-position: center center;
     width: 16px
 }
 #ac-globalnav.no-svg .ac-gn-link-apple {
-    background-image: url("../images/globalnav/apple/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/apple/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-apple {
         background-size: 18px 48px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/apple/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/apple/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-apple {
-        background-image: url("../images/globalnav/apple/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/apple/image_small.png")
     }
 }
 @media only screen and(max-width: 767px) {
@@ -1070,7 +1070,7 @@ body {
 #ac-globalnav .ac-gn-link-mac {
     background-size: 26px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/mac/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/mac/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1078,16 +1078,16 @@ body {
     max-width: 44.2px
 }
 #ac-globalnav.no-svg .ac-gn-link-mac {
-    background-image: url("../images/globalnav/links/mac/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/mac/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-mac {
         background-size: 34px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/mac/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/mac/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-mac {
-        background-image: url("../images/globalnav/links/mac/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/mac/image_small.png")
     }
 }
 .ac-gn-current-mac #ac-globalnav .ac-gn-link-mac {
@@ -1096,7 +1096,7 @@ body {
 #ac-globalnav .ac-gn-link-ipad {
     background-size: 27px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/ipad/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/ipad/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1104,16 +1104,16 @@ body {
     max-width: 45.9px
 }
 #ac-globalnav.no-svg .ac-gn-link-ipad {
-    background-image: url("../images/globalnav/links/ipad/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/ipad/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-ipad {
         background-size: 33px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/ipad/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/ipad/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-ipad {
-        background-image: url("../images/globalnav/links/ipad/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/ipad/image_small.png")
     }
 }
 .ac-gn-current-ipad #ac-globalnav .ac-gn-link-ipad {
@@ -1122,7 +1122,7 @@ body {
 #ac-globalnav .ac-gn-link-iphone {
     background-size: 44px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/iphone/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/iphone/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1130,16 +1130,16 @@ body {
     max-width: 74.8px
 }
 #ac-globalnav.no-svg .ac-gn-link-iphone {
-    background-image: url("../images/globalnav/links/iphone/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/iphone/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-iphone {
         background-size: 53px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/iphone/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/iphone/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-iphone {
-        background-image: url("../images/globalnav/links/iphone/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/iphone/image_small.png")
     }
 }
 .ac-gn-current-iphone #ac-globalnav .ac-gn-link-iphone {
@@ -1148,7 +1148,7 @@ body {
 #ac-globalnav .ac-gn-link-watch {
     background-size: 40px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/watch/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/watch/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1156,16 +1156,16 @@ body {
     max-width: 68px
 }
 #ac-globalnav.no-svg .ac-gn-link-watch {
-    background-image: url("../images/globalnav/links/watch/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/watch/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-watch {
         background-size: 49px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/watch/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/watch/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-watch {
-        background-image: url("../images/globalnav/links/watch/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/watch/image_small.png")
     }
 }
 .ac-gn-current-watch #ac-globalnav .ac-gn-link-watch {
@@ -1174,7 +1174,7 @@ body {
 #ac-globalnav .ac-gn-link-tv {
     background-size: 18px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/tv/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/tv/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1182,16 +1182,16 @@ body {
     max-width: 30.6px
 }
 #ac-globalnav.no-svg .ac-gn-link-tv {
-    background-image: url("../images/globalnav/links/tv/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/tv/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-tv {
         background-size: 23px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/tv/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/tv/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-tv {
-        background-image: url("../images/globalnav/links/tv/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/tv/image_small.png")
     }
 }
 .ac-gn-current-tv #ac-globalnav .ac-gn-link-tv {
@@ -1200,7 +1200,7 @@ body {
 #ac-globalnav .ac-gn-link-music {
     background-size: 37px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/music/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/music/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1208,16 +1208,16 @@ body {
     max-width: 62.9px
 }
 #ac-globalnav.no-svg .ac-gn-link-music {
-    background-image: url("../images/globalnav/links/music/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/music/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-music {
         background-size: 46px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/music/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/music/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-music {
-        background-image: url("../images/globalnav/links/music/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/music/image_small.png")
     }
 }
 .ac-gn-current-music #ac-globalnav .ac-gn-link-music {
@@ -1226,7 +1226,7 @@ body {
 #ac-globalnav .ac-gn-link-support {
     background-size: 60px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/links/support/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/support/image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1234,16 +1234,16 @@ body {
     max-width: 102px
 }
 #ac-globalnav.no-svg .ac-gn-link-support {
-    background-image: url("../images/globalnav/links/support/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/support/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-support {
         background-size: 73px 43px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/links/support/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/support/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-support {
-        background-image: url("../images/globalnav/links/support/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/links/support/image_small.png")
     }
 }
 .ac-gn-current-support #ac-globalnav .ac-gn-link-support {
@@ -1252,21 +1252,21 @@ body {
 #ac-globalnav .ac-gn-link-search {
     background-size: 18px 88px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/search/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_large.svg");
     background-position: center center;
     width: 18px
 }
 #ac-globalnav.no-svg .ac-gn-link-search {
-    background-image: url("../images/globalnav/search/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-search {
         background-size: 13px 13px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/search/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-search {
-        background-image: url("../images/globalnav/search/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_small.png")
     }
 }
 @media only screen and(max-width: 767px) {
@@ -1280,21 +1280,21 @@ body {
 #ac-globalnav .ac-gn-link-bag {
     background-size: 17px 44px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/bag/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/bag/image_large.svg");
     background-position: center center;
     width: 17px
 }
 #ac-globalnav.no-svg .ac-gn-link-bag {
-    background-image: url("../images/globalnav/bag/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/bag/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-link-bag {
         background-size: 17px 48px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/bag/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/bag/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-link-bag {
-        background-image: url("../images/globalnav/bag/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/bag/image_small.png")
     }
 }
 @media only screen and(max-width: 767px) {
@@ -1909,12 +1909,12 @@ body {
     }
 }
 #ac-globalnav .ac-gn-bagview-loader {
-    background: no-repeat center / 40px url("../assets/ac-store/spinner.svg");
+    background: no-repeat center / 40px url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/spinner.svg");
     margin-top: -20px;
     margin-left: -20px;
     width: 40px;
     height: 40px;
-    background: url("../assets/ac-store/spinner.gif") no-repeat\0;
+    background: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/spinner.gif") no-repeat\0;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1923,7 +1923,7 @@ body {
     animation: loader 1s linear infinite
 }
 #ac-globalnav .ac-gn-bagview _:-ms-input-placeholder,:root #ac-globalnav .ac-gn-bagview-loader {
-    background: none, no-repeat center / 40px url("../assets/ac-store/spinner.svg")
+    background: none, no-repeat center / 40px url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/spinner.svg")
 }
 #ac-globalnav .ac-gn-bagview-bag {
     list-style: none;
@@ -2014,43 +2014,43 @@ body {
     text-decoration: none
 }
 #ac-globalnav .ac-gn-bagview-nav-link-bag {
-    background-image: url("../assets/ac-store/bag.png");
-    background-image: none, url("../assets/ac-store/bag.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/bag.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/bag.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
 }
 #ac-globalnav .ac-gn-bagview-nav-link-favorites {
-    background-image: url("../assets/ac-store/favorites.png");
-    background-image: none, url("../assets/ac-store/favorites.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/favorites.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/favorites.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
 }
 #ac-globalnav .ac-gn-bagview-nav-link-orders {
-    background-image: url("../assets/ac-store/orders.png");
-    background-image: none, url("../assets/ac-store/orders.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/orders.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/orders.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
 }
 #ac-globalnav .ac-gn-bagview-nav-link-account {
-    background-image: url("../assets/ac-store/account.png");
-    background-image: none, url("../assets/ac-store/account.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/account.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/account.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
 }
 #ac-globalnav .ac-gn-bagview-nav-link-signIn {
-    background-image: url("../assets/ac-store/signIn.png");
-    background-image: none, url("../assets/ac-store/signIn.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/signIn.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/signIn.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
 }
 #ac-globalnav .ac-gn-bagview-nav-link-signOut {
-    background-image: url("../assets/ac-store/signIn.png");
-    background-image: none, url("../assets/ac-store/signIn.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/signIn.png");
+    background-image: none, url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/assets/ac-store/signIn.svg");
     background-position: -3px 10px;
     background-repeat: no-repeat;
     background-size: 23px 23px
@@ -2980,7 +2980,7 @@ body {
     left: 0;
     background-size: 18px 88px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/search/image_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_large.svg");
     background-position: 10px -44px;
     background-repeat: no-repeat;
     position: absolute;
@@ -2994,16 +2994,16 @@ body {
     transition: opacity 0.3s cubic-bezier(0.25, 0.1, 0.25, 1)
 }
 #ac-globalnav.no-svg .ac-gn-searchform-submit {
-    background-image: url("../images/globalnav/search/image_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-searchform-submit {
         background-size: 13px 13px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/search/image_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-searchform-submit {
-        background-image: url("../images/globalnav/search/image_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/image_small.png")
     }
 }
 #ac-globalnav .ac-gn-searchform-submit:hover,
@@ -3095,10 +3095,10 @@ body {
         height: 16px;
         background-size: 15px 16px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/search/reset_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/reset_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-searchform-reset-background {
-        background-image: url("../images/globalnav/search/reset_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/reset_small.png")
     }
 }
 @media only screen and(max-width: 767px) {
@@ -3335,21 +3335,21 @@ body {
 #ac-globalnav .ac-gn-searchresults-link-suggestions {
     background-size: 13px 64px;
     background-repeat: no-repeat;
-    background-image: url("../images/globalnav/search/suggestions_large.svg");
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/suggestions_large.svg");
     padding-left: 70px;
     background-position: 48px -1px
 }
 #ac-globalnav.no-svg .ac-gn-searchresults-link-suggestions {
-    background-image: url("../images/globalnav/search/suggestions_large.png")
+    background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/suggestions_large.png")
 }
 @media only screen and(max-width: 767px) {
     #ac-globalnav .ac-gn-searchresults-link-suggestions {
         background-size: 13px 86px;
         background-repeat: no-repeat;
-        background-image: url("../images/globalnav/search/suggestions_small.svg")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/suggestions_small.svg")
     }
     #ac-globalnav.no-svg .ac-gn-searchresults-link-suggestions {
-        background-image: url("../images/globalnav/search/suggestions_small.png")
+        background-image: url("https://raw.githubusercontent.com/amorettechartre/first-project/main/assets/ac/globalnav/5/it_IT/images/globalnav/search/suggestions_small.png")
     }
 }
 #ac-globalnav .ac-gn-searchresults-link-suggestions.current {
